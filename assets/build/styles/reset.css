@@ -1,0 +1,38 @@
+﻿.recss a,.recss abbr,.recss acronym,.recss address,.recss bdo,.recss blockquote,.recss body,.recss button,.recss cite,.recss code,.recss dd,.recss del,.recss dfn,.recss div,.recss dl,.recss dt,.recss em,.recss fieldset,.recss form,.recss h1,.recss h2,.recss h3,.recss h4,.recss h5,.recss h6,.recss html,.recss iframe,.recss img,.recss ins,.recss kbd,.recss label,.recss li,.recss object,.recss ol,.recss p,.recss q,.recss samp,.recss span,.recss strong,.recss sub,.recss sup,.recss ul,.recss var,.recss applet,.recss b,.recss big,.recss center,.recss dir,.recss font,.recss hr,.recss i,.recss menu,.recss pre,.recss s,.recss small,.recss strike,.recss tt,.recss u {width:auto;height:auto;text-decoration:none;border:0;float:none;clear:none;vertical-align:baseline;list-style-image:none;list-style-type:disc;list-style-position:outside;margin:0;padding:0}
+.recss address,.recss blockquote,.recss body,.recss dd,.recss div,.recss dl,.recss dt,.recss fieldset,.recss form,.recss h1,.recss h2,.recss h3,.recss h4,.recss h5,.recss h6,.recss ol,.recss p,.recss ul,.recss center,.recss dir,.recss hr,.recss menu,.recss pre {display:block}
+.recss a,.recss abbr,.recss acronym,.recss applet,.recss bdo,.recss button,.recss cite,.recss code,.recss del,.recss dfn,.recss em,.recss iframe,.recss img,.recss ins,.recss kbd,.recss label,.recss object,.recss q,.recss samp,.recss span,.recss strong,.recss sub,.recss sup,.recss var,.recss b,.recss big,.recss font,.recss i,.recss s,.recss small,.recss strike,.recss tt,.recss u {display:inline}
+.recss li {display:list-item}
+.recss html {line-height:1.12;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:left;text-indent:0;white-space:normal}
+.recss body {padding:8px}
+.recss h1 {font-size:2em;margin:.67em 0}
+.recss h2 {font-size:1.5em;margin:.75em 0}
+.recss h3 {font-size:1.17em;margin:.83em 0}
+.recss h4,.recss p,.recss blockquote,.recss fieldset,.recss form,.recss ul,.recss ol,.recss dl,.recss dir,.recss menu {margin:1.12em 0}
+.recss h5 {font-size:.83em;margin:1.5em 0}
+.recss h6 {font-size:.6em;margin:1.67em 0}
+.recss h1,.recss h2,.recss h3,.recss h4,.recss h5,.recss h6,.recss b,.recss strong {font-weight:bolder}
+.recss blockquote {margin-left:40px;margin-right:40px}
+.recss i,.recss cite,.recss em,.recss var,.recss address {font-style:italic}
+.recss pre,.recss tt,.recss code,.recss kbd,.recss samp {font-family:monospace}
+.recss pre {white-space:pre}
+.recss big {font-size:larger}
+.recss small,.recss sub,.recss sup {font-size:smaller}
+.recss sub {vertical-align:sub}
+.recss sup {vertical-align:super}
+.recss s,.recss strike,.recss del {text-decoration:line-through}
+.recss hr {border:1px inset}
+.recss ol,.recss ul,.recss dir,.recss menu,.recss dd {padding-left:40px}
+.recss ol li {list-style-type:decimal}
+.recss ul li {list-style-type:disc}
+.recss ul ul,.recss ul ol,.recss ul menu,.recss ul dir,.recss menu ul,.recss menu ol,.recss menu menu,.recss menu dir,.recss dir ul,.recss dir ol,.recss dir menu,.recss dir dir,.recss ol ul,.recss ol ol,.recss ol menu,.recss ol dir {margin-top:0;margin-bottom:0}
+.recss ol ul,.recss ul ul,.recss menu ul,.recss dir ul,.recss ol menu,.recss ul menu,.recss menu menu,.recss dir menu,.recss ol dir,.recss ul
+.recss dir,.recss menu dir,.recss dir dir {list-style-type:circle}
+.recss ol ol ul,.recss ol ul ul,.recss ol menu ul,.recss ol dir ul,.recss ol ol menu,.recss ol ul menu,.recss ol menu menu,.recss ol dir menu,.recss ol ol dir,.recss ol ul dir,.recss ol menu dir,.recss ol dir dir,.recss ul ol ul,.recss ul ul ul,.recss ul menu ul,.recss ul dir ul,.recss ul ol menu,.recss ul ul menu,.recss ul menu menu,.recss ul dir menu,.recss ul ol dir,.recss ul ul dir,.recss ul menu dir,.recss ul dir dir,.recss menu ol ul,.recss menu ul ul,.recss menu menu ul,.recss menu dir ul,.recss menu ol menu,.recss menu ul menu,.recss menu menu menu,.recss menu dir menu,.recss menu ol dir,.recss menu ul dir,.recss menu menu dir,.recss menu dir dir,.recss dir ol ul,.recss dir ul ul,.recss dir menu ul,.recss dir dir ul,.recss dir ol menu,.recss dir ul menu,.recss dir menu menu,.recss dir dir menu,.recss dir ol dir,.recss dir ul dir,.recss dir menu dir,.recss dir dir dir {list-style-type:square}
+.recss u,.recss ins {text-decoration:underline}
+.recss caption,.recss col,.recss colgroup,.recss legend,.recss table,.recss tbody,.recss td,.recss tfoot,.recss th,.recss thead,.recss tr {text-decoration:none;border:none;float:none;clear:none;margin:1px;padding:1px}
+.recss table,.recss tbody,.recss tfoot,.recss thead,.recss tr {display:block;width:auto;height:auto;background:top left}
+.recss caption,.recss legend,.recss td,.recss th {display:inline;vertical-align:baseline;font-size:1em;line-height:1.33em;color:#000;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:left;text-indent:0;white-space:normal}
+.recss th {font-weight:bolder;text-align:center}
+.recss ol ol li {list-style-type:lower-alpha}
+.recss ol ol ol li {list-style-type:lower-roman}
+.recss center,.recss caption {text-align:center}
